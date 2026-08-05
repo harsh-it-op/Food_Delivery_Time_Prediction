@@ -1,7 +1,6 @@
 # Food Delivery Time Prediction
 
-End-to-end ML project built from the spec in
-`Copy of Food Delivery Time Prediction.docx` and the dataset
+End-to-end ML project built from the spec in the dataset
 `Food_Delivery_Time_Prediction.csv`.
 
 ## How to run
