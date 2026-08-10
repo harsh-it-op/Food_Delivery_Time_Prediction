@@ -1,0 +1,29 @@
+{
+  "linear_regression": {
+    "MSE": 932.6123144384201,
+    "RMSE": 30.538701911483077,
+    "MAE": 26.38895497382223,
+    "R2": -0.008348122376053091,
+    "Baseline_MAE": 25.534987499999996,
+    "Baseline_R2": -0.0011657832073901364
+  },
+  "logistic_regression": {
+    "Accuracy": 0.45,
+    "Precision": 0.45454545454545453,
+    "Recall": 0.5,
+    "F1": 0.47619047619047616,
+    "ROC_AUC": 0.435
+  },
+  "dataset_rows": 200,
+  "median_delivery_time": 72.775,
+  "feature_correlations_with_target": {
+    "Is_Rush_Hour": -0.004,
+    "Order_Cost": -0.009,
+    "Delivery_Person_Experience": -0.019,
+    "Customer_Rating": -0.022,
+    "Tip_Amount": -0.029,
+    "Distance": -0.075,
+    "Restaurant_Rating": -0.092,
+    "Haversine_km": -0.171
+  }
+}
